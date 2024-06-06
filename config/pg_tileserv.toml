@@ -1,0 +1,2 @@
+DbConnection = "postgres://postgres:postgres@localhost/postgres"
+DefaultResolution = 4096
