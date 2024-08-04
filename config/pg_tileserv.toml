@@ -1,5 +1,0 @@
-DbConnection = "postgresql://doadmin:AVNS_vzGFs6VuYr5BHKpOB2w@db-postgresql-fra1-81904-do-user-15998940-0.c.db.ondigitalocean.com:25060/defaultdb?sslmode=require"
-DefaultResolution = 4096
-
-[functions]
-get_landwirtschaft = "public.get_landwirtschaft"
